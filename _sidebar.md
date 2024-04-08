@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- _sidebar.md -->
 * [首页](/)
 * [工作](/docs/工作.md "这是用于MZG的工作文档")
   * [MZG](/docs/MZG/MZG.md)
